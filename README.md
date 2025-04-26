@@ -1,7 +1,7 @@
 # CiscoSmallBusinessNetwork 🛜
 Designed and implemented a secure network infrastructure for a small business using Cisco routers, switches and Firewalls (FTD).
 
-## Topology Diagram
+## Topology Diagram 🕸️
 
 ```
                      Internet
